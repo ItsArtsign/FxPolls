@@ -1,0 +1,12 @@
+name: FxPolls
+version: '${version}'
+
+main: dev.artsign.fxPolls.FxPolls
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ ItsArtsign ]
+
+commands:
+  fxpolls:
+    aliases: ['polls']
